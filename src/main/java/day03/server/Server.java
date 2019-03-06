@@ -8,6 +8,7 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
  * 聊天室服务器
+ * 全局的channel集合操作
  */
 
 public class Server {

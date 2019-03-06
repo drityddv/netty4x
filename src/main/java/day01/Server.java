@@ -10,8 +10,7 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 import java.net.InetSocketAddress;
 
 /**
- * @author : ddv
- * @date : 2019/2/27 下午7:47
+ * http支持
  */
 
 public class Server {
